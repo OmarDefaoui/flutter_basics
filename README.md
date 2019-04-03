@@ -1,16 +1,13 @@
 # flutter_app
 
-A new Flutter application.
+A simple flutter app, to discover the basic widgets.
 
-## Getting Started
+In this project you will find a basic implementation of:
+- How to print hello world
+- How to use center widget, container widget, column widget, row widget, scaffold widget, card widget
+- How to implement navigation bar, app bar, drawer
+- How to use Button widget, TextInput widget, checkbox widget and switch widget
+- How to display an alert dialog, a bottom sheet, a simple dialog and a snackbar
+- How to navigate between pages and pass values between them.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+This is just a basic project, so i didn't apply o good style to keep the code easy to understand.
