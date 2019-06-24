@@ -14,6 +14,12 @@ import 'package:flutter_app/dialog/SimpleDialogWidget.dart';
 import 'package:flutter_app/dialog/SnackBarWidget.dart';
 import 'package:flutter_app/container/CardWidget.dart';
 import 'package:flutter_app/navigation/pages.dart';
+import 'basicWidgets/ContainerWidget.dart';
+import 'basicWidgets/RowWidget.dart';
+import 'basicWidgets/ImageWidget.dart';
+import 'basicWidgets/TextWidget.dart';
+import 'basicWidgets/ButtonWidget.dart';
+import 'basicWidgets/DropDownButton.dart';
 
 void main() {
   runApp(MaterialApp(
@@ -64,5 +70,13 @@ void main() {
 
     //**Navigation between pages, and pass value between first and second page
     //home: Pages(),
+
+    //**some basic widgets
+    //home: ButtonWidget(),
+    //home: ContainerWidget(),
+    //home: DropDownButtonWidget(),
+    //home: ImageWidget(),
+    //home: RowWidget(),
+    //home: TextWidget(),
   ));
 }
