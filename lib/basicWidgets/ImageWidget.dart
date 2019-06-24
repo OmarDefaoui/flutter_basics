@@ -11,7 +11,9 @@ class ImageWidget extends StatelessWidget {
       body: Center(
         child: Column(
           children: <Widget>[
-            Image.network("https://pic.clubic.com/v1/images/1708593/raw"),
+            Image.network(
+              "https://pic.clubic.com/v1/images/1708593/raw",
+            ),
             Icon(
               Icons.access_alarms,
               color: Colors.blue,

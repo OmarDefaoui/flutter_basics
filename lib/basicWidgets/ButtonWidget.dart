@@ -4,7 +4,7 @@ class ButtonWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      resizeToAvoidBottomInset: false, //to don't resize the page when the keyboard appear
+      resizeToAvoidBottomInset: false, //don't resize the page when the keyboard appear
       appBar: AppBar(
         title: Text("Button"),
         backgroundColor: Colors.blue,

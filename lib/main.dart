@@ -71,12 +71,12 @@ void main() {
     //**Navigation between pages, and pass value between first and second page
     //home: Pages(),
 
-    //**some basic widgets
+    //** add some basic widgets
+    //home: TextWidget(),
     //home: ButtonWidget(),
     //home: ContainerWidget(),
     //home: DropDownButtonWidget(),
     //home: ImageWidget(),
     //home: RowWidget(),
-    //home: TextWidget(),
   ));
 }
